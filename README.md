@@ -30,9 +30,7 @@ How do I install Xeno cheat on roblox?
 
 2.Temporarily disable the antivirus: to avoid possible program blockages.
 
-3.Unzip the archive: open the downloaded file ‘xeno.zip’ and extract its contents.
-
-4.Launch the xeno injector: the program is ready for use.
+3.Launch the xeno injector: the program is ready for use.
 
 
 

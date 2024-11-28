@@ -1,8 +1,0 @@
---[[
-	- Double click to change tab title
-
-	- If the tabs glitches out of the screen
-	then make xeno fullscreen and delete some tabs
-]]
-
-print("Hello, World!")
